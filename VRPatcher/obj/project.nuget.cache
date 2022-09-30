@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "we8KKkpzge+8LY4Nmk4V8xAutuP2VunJT3n3UOSDXMrvP/9/j6J2PfavBmcvc9LJuvPVBO915HXFJCfqiFlFcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jj131\\UEBSMod\\VRPatcher\\VRPatcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jj131\\.nuget\\packages\\assetstools.net\\2.0.7\\assetstools.net.2.0.7.nupkg.sha512",
+    "C:\\Users\\jj131\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jj131\\.nuget\\packages\\mono.cecil\\0.11.3\\mono.cecil.0.11.3.nupkg.sha512",
+    "C:\\Users\\jj131\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
